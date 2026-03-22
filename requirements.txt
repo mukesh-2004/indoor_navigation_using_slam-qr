@@ -1,0 +1,6 @@
+opencv-python
+numpy
+opencv-contrib-python
+pyzbar
+scipy
+matplotlib
